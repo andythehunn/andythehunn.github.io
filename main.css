@@ -114,8 +114,8 @@ button {
   width: 125px;
   padding: 2rem;
   margin: 2rem auto;
-  border: 1px solid gray;
-  border-radius: 10px;  
+  border: 1px solid white;
+  border-radius: 1rem;  
   font-size:80px;
 }
 
