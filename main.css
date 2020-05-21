@@ -108,6 +108,7 @@ button {
   text-transform: uppercase;
   width: 200px;
   cursor: pointer;
+text-align: center;
 }
 #placeholder {
   height: 150px;
